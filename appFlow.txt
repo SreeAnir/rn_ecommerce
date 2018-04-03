@@ -1,0 +1,24 @@
+
+-----------------------------Hani----------------------------- 
+
+Phase  = 1(10 days)
+    All Design,
+    fetch Api's
+    Routing
+
+
+Phase  = 2(5 days)
+    Login/Register->Response(Api's),
+    Invoice Send Response(Camera Api)
+
+
+Phase = 3;(5 days)
+    Search (Category->Brand->Offers->City);
+
+Phase = 4;(5 days)
+    Coins,
+    Top Offers
+
+
+Phase = 5;(5 days)
+    Finalize And Bugs Solve;
